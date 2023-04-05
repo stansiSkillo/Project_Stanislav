@@ -1,4 +1,4 @@
-Файловете са в Test/Java/Final/Pages/Tests 
+Файловете са в SRC/Test/Java/Final/Pages/Tests 
 
 Login test - целта е да се провери дали работи правилно линка Register
 
